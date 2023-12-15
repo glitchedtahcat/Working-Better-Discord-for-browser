@@ -20,3 +20,7 @@
 7. Load unpacked extension
 
 8. Now select the folder from step 2 you extracted the archive contents into.
+
+# Better Discord Server Invite:
+[https://discord.gg/0Tmfo5ZbORCRqbAd
+]([url](https://discord.gg/0Tmfo5ZbORCRqbAd)
