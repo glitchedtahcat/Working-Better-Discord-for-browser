@@ -5,7 +5,7 @@
 
 # how to install
 
-1. Go to [The Download Relase] (https://github.com/glitchedtahcat/Working-Better-Discord-for-browser/releases/tag/download)
+1. Go to [The Download Relase](https://github.com/glitchedtahcat/Working-Better-Discord-for-browser/releases/tag/download)
 
 2. Download the zip
 
